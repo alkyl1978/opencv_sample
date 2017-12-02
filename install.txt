@@ -1,0 +1,8 @@
+запись  зависимостей
+pip freeze > requirements.txt
+
+установка зависимостей
+pip install -r requirements.txt
+
+
+

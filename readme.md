@@ -1,0 +1,1 @@
+программа для python opencv 
